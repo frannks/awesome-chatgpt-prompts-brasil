@@ -17,7 +17,7 @@ As seguintes diretrizes devem ser seguidas ao fazer qualquer contribuição de c
 ## Novas diretrizes de solicitação
 Para adicionar um novo prompt a este repositório, um colaborador deve seguir os seguintes passos (em seu fork pessoal):
 1. Crie e teste o novo prompt.
-    - See the [README](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md) para obter orientação sobre como escrever prompts eficazes.
+    - See the [README](https://github.com/frannks/awesome-chatgpt-prompts-brasil/blob/main/README.md) para obter orientação sobre como escrever prompts eficazes.
     - Certifique-se de que os prompts gerem os resultados pretendidos e possam ser usados ​​por outros usuários para replicate those results.
 2. Adicione o prompt a `README.md` usando o seguinte modelo de remarcação:
 
