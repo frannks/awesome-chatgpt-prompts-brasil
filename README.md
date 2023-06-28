@@ -7,7 +7,7 @@
 - Esse é o [repositório oficial](https://github.com/f/awesome-chatgpt-prompts/tree/main).
 - Esse repositório é somente uma tradução para o português brasil.
 - Alguns prompts podem não sair como desejado, só modificar (LEMBRANDO, o ChatGPT pode entender melhor o inglês).
-- Fique a vontade para adicionar novos prompts.
+- Fique a vontade para [contribuir](https://github.com/frannks/awesome-chatgpt-prompts-brasil/blob/main/CONTRIBUTING.md) com novos prompts.
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
