@@ -4,7 +4,7 @@
 
 # Antes de começar:
 
-- Esse é o [repositório oficial](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md).
+- Esse é o [repositório oficial](https://github.com/f/awesome-chatgpt-prompts/tree/main).
 - Esse repositório é somente uma tradução para o português brasil.
 - Alguns prompts podem não sair como desejado, só modificar (LEMBRANDO, o ChatGPT pode entender melhor o inglês).
 - Fique a vontade para adicionar novos prompts.
